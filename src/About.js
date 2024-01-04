@@ -2,7 +2,6 @@ import React from "react";
 import "./App.css";
 import Header from "./components/Header";
 import Footer from "./components/Footer";
-import ProgressBar from "./components/ProgressBar";
 
 // import { FontAwesome } from '@expo/vector-icons';
 // import {reactComponent as Twitter} from './twitter.svg';
@@ -30,7 +29,7 @@ const About = () => {
           <div className="flex justify-center">
             <img
               src="https://picsum.photos/560"
-              alt="image 1"
+              alt=" 1"
               className=" max-w-[60%] h-auto shrink-0  object-cover mr-4 mt-4 border-2 border-[#FAE9D2]"
             />
           </div>
@@ -44,12 +43,12 @@ const About = () => {
           <div className="">
             <img
               src="https://picsum.photos/780"
-              alt="image 1"
+              alt=" 1"
               className=" w-full h-auto  object-cover mr-4 mt-4 border-2 border-[#FAE9D2]"
             />
             <img
               src="https://picsum.photos/580"
-              alt="image 2"
+              alt=" 2"
               className=" w-full h-auto  object-cover mr-4 mt-4 border-2 border-[#FAE9D2]"
             />
           </div>
@@ -253,7 +252,7 @@ const About = () => {
             <div>
               <h3 className="font-bold pt-7 pb-3">Achievements</h3>
               <div>
-                <a className="">
+                <a href="#" className="">
                   <button className="transition ease-in-out delay-0    hover:bg-[#338c8c] duration-150 hover:text-white bg-[#1AABAC] px-5 py-3  w-full">
                     Check out my LinkedIn
                   </button>
@@ -294,7 +293,7 @@ const About = () => {
           <div className="flex justify-center ">
             <img
               src="https://picsum.photos/687"
-              alt="image 1"
+              alt=" 1"
               className=" w-[50%] h-auto  object-cover mr-4  border-2 border-[#FAE9D2]"
             />
           </div>

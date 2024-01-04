@@ -1,14 +1,8 @@
 import React from "react";
 import ImageGrid from "./components/imageGrid";
 import Card from "./components/card";
-// import { FontAwesome } from '@expo/vector-icons';
-// import {reactComponent as Twitter} from './twitter.svg';
-import { FaTwitterSquare } from "react-icons/fa";
-import { FaLinkedin } from "react-icons/fa";
-import { FaInstagram } from "react-icons/fa";
 import Header from "./components/Header";
 import Footer from "./components/Footer";
-import { useState } from "react"; // import state
 
 function Home() {
   const images = [
@@ -54,7 +48,6 @@ function Home() {
     },
   ];
 
-  const [isNavOpen, setIsNavOpen] = useState(false); // initiate isNavOpen state with false
 
   return (
     <>
