@@ -21,21 +21,6 @@ const ImageGrid = ({ images }) => {
 };
 
 
-{/* <div className="grid grid-cols-3 gap-4">
-      {images.map((image, index) => (
-        <div key={index} className="relative">
-          <img
-            src={image.url}
-            alt={image.title}
-            className="w-full h-auto rounded-lg"
-          />
-          <div className="absolute bottom-0 left-0 right-0 bg-black text-white text-center p-2">
-            {image.title}
-          </div>
-        </div>
-      ))}
-    </div> */}
-
 
 export default ImageGrid;
 

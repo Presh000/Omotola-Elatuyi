@@ -6,8 +6,8 @@ import Home from "../Home"; // Import your Home component
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
 
 const router = createBrowserRouter([
-  { path: "/", element: Home },
-  { path: "/about", element: About },
+  { path: "/", element: <Home/> },
+  { path: "/about", element: <About/> },
 ]);
 
 function AppRouter() {

@@ -1,4 +1,25 @@
 .bg {
   background-image: url(../img/home.jpg);
+}
+span{
+  font-size: 0.9rem;
+  color: #2E3755;
+  /* padding-bottom: 3rem; */
 
+}
+
+p {
+  font-size: 1.125rem;
+  color: #2E3755;
+}
+
+h2 {
+  font-size: 1.875rem/* 30px */;
+    line-height: 2.25rem/* 36px */;
+}
+
+h3{
+  font-size: 1.5rem;
+  line-height: 2.25rem;
+  color: #4A4A4A;
 }
