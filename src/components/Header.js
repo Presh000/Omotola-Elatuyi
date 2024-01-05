@@ -41,7 +41,7 @@ const Header = () => {
             </div>
             <ul className="MENU-LINK-MOBILE-OPEN flex flex-col items-center justify-between min-h-[250px]  ">
               <li className="hover:border-b-2  ">
-                <a href="#" className=" text-[#1AABAC] font-bold text-xl">
+                <a href="/" className=" text-[#1AABAC] font-bold text-xl">
                   Portfolio
                 </a>
               </li>
@@ -59,7 +59,7 @@ const Header = () => {
                 </a>
               </li>
               <li className="hover:border-b-2  ">
-                <a href="#" className="text-[#1AABAC] font-bold text-xl">
+                <a href="/connect" className="text-[#1AABAC] font-bold text-xl">
                   Say Hi!
                 </a>
               </li>
@@ -70,7 +70,7 @@ const Header = () => {
         <ul className="DESKTOP-MENU hidden space-x-8 lg:flex">
           <li>
             <a
-              href="#"
+              href="/"
               className="block text-[#1AABAC] font-bold text-s delay-100 border-b-2 border-b-transparent hover:border-b-[#EC2E57]  hover:text-[#EC2E57]"
             >
               Portfolio
