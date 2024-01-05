@@ -41,10 +41,7 @@ const Header = () => {
             </div>
             <ul className="MENU-LINK-MOBILE-OPEN flex flex-col items-center justify-between min-h-[250px]  ">
               <li className="hover:border-b-2  ">
-                <a
-                  href="#"
-                  className=" text-[#1AABAC] font-bold text-xl"
-                >
+                <a href="#" className=" text-[#1AABAC] font-bold text-xl">
                   Portfolio
                 </a>
               </li>
@@ -57,18 +54,12 @@ const Header = () => {
                 </a>
               </li>
               <li className="hover:border-b-2  ">
-                <a
-                  href="/about"
-                  className="text-[#1AABAC] font-bold text-xl"
-                >
+                <a href="/about" className="text-[#1AABAC] font-bold text-xl">
                   About
                 </a>
               </li>
               <li className="hover:border-b-2  ">
-                <a
-                  href="#"
-                  className="text-[#1AABAC] font-bold text-xl"
-                >
+                <a href="#" className="text-[#1AABAC] font-bold text-xl">
                   Say Hi!
                 </a>
               </li>
@@ -78,14 +69,17 @@ const Header = () => {
 
         <ul className="DESKTOP-MENU hidden space-x-8 lg:flex">
           <li>
-            <a href="#" className="block px-3 text-[#1AABAC] font-bold text-s">
+            <a
+              href="#"
+              className="block text-[#1AABAC] font-bold text-s delay-100 border-b-2 border-b-transparent hover:border-b-[#EC2E57]  hover:text-[#EC2E57]"
+            >
               Portfolio
             </a>
           </li>
           <li>
             <a
               href="#kindWords"
-              className="block px-3 text-[#1AABAC] font-bold text-s"
+              className="block text-[#1AABAC] font-bold text-s delay-100 hover:border-b-2 hover:border-b-[#EC2E57]  hover:text-[#EC2E57]"
             >
               Kind words
             </a>
@@ -93,13 +87,16 @@ const Header = () => {
           <li>
             <a
               href="/about"
-              className="block px-3 text-[#1AABAC] font-bold text-s"
+              className="block text-[#1AABAC] font-bold text-s delay-100 hover:border-b-2 hover:border-b-[#EC2E57]  hover:text-[#EC2E57]"
             >
               About
             </a>
           </li>
           <li>
-            <a href="#" className="block px-3 text-[#1AABAC] font-bold text-s">
+            <a
+              href="/connect"
+              className="block text-[#1AABAC] font-bold text-s delay-100 hover:border-b-2 hover:border-b-[#EC2E57]  hover:text-[#EC2E57]"
+            >
               Say Hi!
             </a>
           </li>
