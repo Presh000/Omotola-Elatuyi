@@ -124,37 +124,37 @@ const About = () => {
             <div className="pb-5">
               <p className="pb-3">Digital marketing</p>
               <div className="w-full bg-gray-200 rounded-full h-2.5 dark:bg-gray-700">
-                <div className="bg-blue-600 h-2.5 rounded-full w-[45%]"></div>
+                <div className="bg-blue-600 h-2.5 rounded-full w-[55%]"></div>
               </div>
             </div>
             <div className="pb-5">
               <p className="pb-3">Motivational speaking</p>
               <div className="w-full bg-gray-200 rounded-full h-2.5 dark:bg-gray-700">
-                <div className="bg-blue-600 h-2.5 rounded-full w-[45%]"></div>
+                <div className="bg-blue-600 h-2.5 rounded-full w-[95%]"></div>
               </div>
             </div>
             <div className="pb-5">
               <p className="pb-3">Partnership Marketing</p>
               <div className="w-full bg-gray-200 rounded-full h-2.5 dark:bg-gray-700">
-                <div className="bg-blue-600 h-2.5 rounded-full w-[45%]"></div>
+                <div className="bg-blue-600 h-2.5 rounded-full w-80%]"></div>
               </div>
             </div>
             <div className="pb-5">
               <p className="pb-3">Social Strategy and Community Management</p>
               <div className="w-full bg-gray-200 rounded-full h-2.5 dark:bg-gray-700">
-                <div className="bg-blue-600 h-2.5 rounded-full w-[45%]"></div>
+                <div className="bg-blue-600 h-2.5 rounded-full w-[50%]"></div>
               </div>
             </div>
             <div className="pb-5">
               <p className="pb-3">Business Service Managerg</p>
               <div className="w-full bg-gray-200 rounded-full h-2.5 dark:bg-gray-700">
-                <div className="bg-blue-600 h-2.5 rounded-full w-[45%]"></div>
+                <div className="bg-blue-600 h-2.5 rounded-full w-[90%]"></div>
               </div>
             </div>
             <div className="pb-5">
               <p className="pb-3">Brand management and aquisition</p>
               <div className="w-full bg-gray-200 rounded-full h-2.5 dark:bg-gray-700">
-                <div className="bg-blue-600 h-2.5 rounded-full w-[45%]"></div>
+                <div className="bg-blue-600 h-2.5 rounded-full w-[73%]"></div>
               </div>
             </div>
             <div className="pb-5">
@@ -172,13 +172,13 @@ const About = () => {
             <div className="pb-5">
               <p className="pb-3">Project manager</p>
               <div className="w-full bg-gray-200 rounded-full h-2.5 dark:bg-gray-700">
-                <div className="bg-blue-600 h-2.5 rounded-full w-[45%]"></div>
+                <div className="bg-blue-600 h-2.5 rounded-full w-[65%]"></div>
               </div>
             </div>
             <div className="pb-5">
               <p className="pb-3">Leadership and Team building</p>
               <div className="w-full bg-gray-200 rounded-full h-2.5 dark:bg-gray-700">
-                <div className="bg-blue-600 h-2.5 rounded-full w-[45%]"></div>
+                <div className="bg-blue-600 h-2.5 rounded-full w-[85%]"></div>
               </div>
             </div>
           </div>
