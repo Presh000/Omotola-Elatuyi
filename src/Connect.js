@@ -8,7 +8,7 @@ const Connect = () => {
     <>
       <Header />
       <section className=" bg-[#E6F3F1] flex flex-col shrink-0 sm:px-20 md:px-32 lg:px-58 px-5 py-10">
-        <div className="grid grid-cols-2 gap-36 items-center justify-center  ">
+        <div className="grid lg:grid-cols-2 lg:gap-36 gap-4 items-center justify-center  ">
           <div>
             <div className="text-4xl lg:text-5xl pb-3  font-bold text-[#EC2E57]">
               Let's connect!
